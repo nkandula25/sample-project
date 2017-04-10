@@ -116,11 +116,11 @@
 	</build>
 <distributionManagement>
 <snapshotRepository>
-      <id>apache-snapshots</id>
+      <id>maven-snapshots</id>
         <url>http://34.223.244.235:8081/nexus/content/repositories/maven-snapshots/</url>
    </snapshotRepository>
    <repository>
-      <id>releases</id>
+      <id>maven-release</id>
         <url>http://34.223.244.235:8081/nexus/content/repositories/maven-release/</url>
    </repository>
 </distributionManagement>
